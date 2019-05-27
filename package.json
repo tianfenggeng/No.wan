@@ -1,0 +1,25 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "a docs about building blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlxh/docs.git"
+  },
+  "author": "anhui students about sdjzu University",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdlxh/docs/issues"
+  },
+  "homepage": "https://github.com/jdlxh/docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11",
+    "webpack-dev-middleware": "^3.7.0"
+  }
+}
