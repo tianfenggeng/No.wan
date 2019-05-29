@@ -17,36 +17,36 @@ module.exports = {
         ],
 
         sidebar: [
-            {
-                title: '2013级',
-                // collapsable: false,
-                children: [
-                    ['/2013/', '故事的开始'],
-                    ['/2013/article/fengge', '峰哥——何处安放的灵魂']
-                ]
-            },
-            {
-                title: '2014级',
-                // collapsable: false,
-                children: [
-                    ['/2014/', '开疆扩土'],
-                    ['/2014/article/taoge', '涛哥']
-                ]
-            },
+            // {
+            //     title: '2013级',
+            //     // collapsable: false,
+            //     children: [
+            //         ['/2013/', '故事的开始'],
+            //         ['/2013/article/fengge', '峰哥——何处安放的灵魂']
+            //     ]
+            // },
+            // {
+            //     title: '2014级',
+            //     // collapsable: false,
+            //     children: [
+            //         ['/2014/', '开疆扩土'],
+            //         ['/2014/article/taoge', '涛哥']
+            //     ]
+            // },
             {
                 title: '2015级',
                 // collapsable: false,
                 children: [
-                    ['/2015/', '云飞的一切']
+                    ['/2015/', '云飞']
                 ]
             },
-            {
-                title: '2016级',
-                // collapsable: false,
-                children: [
-                    ['/2016/', '曾经的小宝贝儿']
-                ]
-            },
+            // {
+            //     title: '2016级',
+            //     // collapsable: false,
+            //     children: [
+            //         ['/2016/', '曾经的小宝贝儿']
+            //     ]
+            // },
             {
                 title: '2017级',
                 // collapsable: false,
