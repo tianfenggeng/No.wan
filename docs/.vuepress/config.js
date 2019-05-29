@@ -37,7 +37,7 @@ module.exports = {
                 title: '2015级',
                 // collapsable: false,
                 children: [
-                    ['/2015/', '云飞']
+                    ['/2015/article/liuyunfei', '云飞']
                 ]
             },
             // {
