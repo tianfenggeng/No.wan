@@ -22,7 +22,7 @@ module.exports = {
                 // collapsable: false,
                 children: [
                     // ['/2013/', '故事的开始'],
-                    ['/2013/partingVidio', '致我们逝去的青春']
+                    ['/2013/partingVidio13', '致我们逝去的青春']
                 ]
             },
             // {
@@ -39,7 +39,7 @@ module.exports = {
                 children: [
                     // ['/2015/article/liuyunfei', '云飞'],
                     // ['/2015/article/gengtianfeng', '天丰'],
-                    ['/2015/partVidio', '毕业视频']
+                    ['/2015/partingVidio15', '毕业视频']
                 ]
             },
             // {
