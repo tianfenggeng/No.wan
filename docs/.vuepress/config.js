@@ -39,6 +39,7 @@ module.exports = {
                 children: [
                     // ['/2015/article/liuyunfei', '云飞'],
                     // ['/2015/article/gengtianfeng', '天丰'],
+                    ['/2015/partVidio', '毕业视频']
                 ]
             },
             // {
