@@ -1,2 +1,2 @@
-# Initial page
+# gitBook 说明
 

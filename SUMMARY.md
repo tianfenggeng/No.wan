@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [gitBook 说明](README.md)
 
