@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jdlxh/docs#readme",
   "devDependencies": {
-    "vuepress": "^0.14.11",
+    "vuepress": "^1.9.7",
     "webpack-dev-middleware": "^3.7.0"
   }
 }
